@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "aaaa",
+      "src": "https://th.bing.com/th/id/R.105feb1ff0869489e31624ff0fbd4e8c?rik=1MqbiSkQ4pBw8Q&pid=ImgRaw&r=0",
+      "price": 10
+    },
+    {
+      "id": 3,
+      "name": "cccc",
+      "src": "https://bonnierpublications.com/app/uploads/2022/05/digitalfoto.jpg",
+      "price": 7
+    },
+    {
+      "id": 4,
+      "name": "dddd",
+      "src": "https://th.bing.com/th/id/R.5c7a0e8b34c189e603ea1db9de9a30d7?rik=VCTHPfL%2fFoCdUg&pid=ImgRaw&r=0",
+      "price": 3
+    },
+    {
+      "name": "sdsss",
+      "price": "sssss",
+      "src": "sssss",
+      "id": 5
+    }
+  ]
+}
